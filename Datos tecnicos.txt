@@ -1,0 +1,5 @@
+
+POS(PUNTO DE VENTA)
+nombre base de datos=pos
+SISTEMA HECHO EN PHP Y MYSQL
+
